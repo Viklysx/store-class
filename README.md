@@ -1,1 +1,1 @@
-# store-class
+# Class-based компонент на React
